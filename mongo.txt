@@ -1,0 +1,4 @@
+introducton
+installation and configuration
+data tyes 
+curd operators
