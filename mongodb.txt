@@ -1,3 +1,4 @@
 Installation and configuraton of mongodb
 data operation 
 data types are crud operation
+database methods
