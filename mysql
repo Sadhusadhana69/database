@@ -2,3 +2,8 @@ mysql introduction
 create a database
 create schema 
 create table name
+db;
+show dbs;
+db.create collection ("employee");
+db.dropdatabase();
+
